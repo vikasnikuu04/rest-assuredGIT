@@ -1,0 +1,28 @@
+package com.rest_assured;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest2 
+{
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( false );
+    }
+    
+    @Test
+    public void shouldAnswerWithFalse()
+    {
+        assertTrue( true );
+    }
+    
+    
+}
