@@ -12,9 +12,12 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
+	   @Test
+	    public void shouldAnswerWithTrue()
+	    {
+	        assertTrue( false );
+	    }
+    
+    
+    
 }
